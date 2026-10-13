@@ -1,6 +1,29 @@
 {
   "entities": [
     {
+      "id": "fate-of-fae",
+      "title": "Fate of Fae",
+      "description": "Zyara, a faerie searching a fractured world for the truth about her locked wings: character sheet and model references.",
+      "type": "group",
+      "category": "project",
+      "created": "2026-10-12",
+      "updated": "2026-10-12",
+      "folder": "2026-10-12_fate-of-fae",
+      "steps": [
+        {
+          "name": "Overview",
+          "path": "overview.md"
+        },
+        {
+          "name": "Zyara",
+          "path": "zyara.html"
+        }
+      ],
+      "status": "active",
+      "pinned": true,
+      "defaultStep": 0
+    },
+    {
       "id": "my-dream-game",
       "title": "My Dream Game",
       "description": "Mr. Mak 64: a small Sky Islands adventure, with character studies, world layouts and a development board.",
